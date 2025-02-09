@@ -6,7 +6,7 @@ tags:
   - Student
   - Miskantonic
 ---
-> [!infobox]
+
 > ![[zz_Assets/BoydP.jpeg| 150]]
 > **Age:** 24
 > **Function:** Student
