@@ -5,7 +5,7 @@ tags:
   - 
 ---
 > [!infobox]
-> ![[ProfRoger.jpg| 150]]
+> ![[zz_Assets/ProfRoger.jpg| 150]]
 > **Age:** 
 > **Function:** 
 > **Status:** 
