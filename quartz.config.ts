@@ -53,8 +53,8 @@ const config: QuartzConfig = {
         },
       },
     },
-    staticFileDirs: ["zz_assets", "public"],  // <-- Add this line here
-  },
+    staticFileDirs: ["zz_assets"],  
+},
   plugins: {
     transformers: [
       Plugin.FrontMatter(),
