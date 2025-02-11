@@ -7,7 +7,7 @@ tags:
   - Anthropologist
 ---
 > [!infobox]
-> ![[zz_Assets/ProfRoger.jpg| 150]]
+> ![[../../public/zz_Assets/ProfRoger.jpg| 150]]
 > **Age:** 44
 > **Function:** Professor of Anthropology
 > **Status:** Alive
