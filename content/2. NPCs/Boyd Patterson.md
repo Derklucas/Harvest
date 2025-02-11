@@ -7,7 +7,7 @@ tags:
   - Miskantonic
 ---
 
-> ![BoydP](docs/zz_assets/BoydP.jpeg))
+> ![Boyd Patterson |150](zz_Assets/BoydP.jpeg)
 > **Age:** 24
 > **Function:** Student
 > **Status:** Deceased
