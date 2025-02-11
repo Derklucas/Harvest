@@ -7,7 +7,7 @@ tags:
   - Miskantonic
 ---
 > [!infobox]
-> ![DaphneD |150](DaphneD.jpeg)
+> ![DaphneD |150](../../docs/zz_Assets/DaphneD.jpeg)
 > **Age:** 22
 > **Function:** Student
 > **Status:** Missing

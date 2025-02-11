@@ -5,7 +5,7 @@ tags:
   - 
 ---
 > [!infobox]
-> ![[../public/zz_Assets/Cobbs.png]]
+> ![[../docs/zz_Assets/Cobbs.png]]
 
 
 

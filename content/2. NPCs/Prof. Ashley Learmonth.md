@@ -7,7 +7,7 @@ tags:
   - Metallurgy
 ---
 > [!infobox]
-> ![[../../public/zz_Assets/ProfAshley.png| 150]]
+> ![[../../docs/zz_Assets/ProfAshley.png| 150]]
 > **Age:** 47
 > **Function:** Metallurgist
 > **Status:** Alive
