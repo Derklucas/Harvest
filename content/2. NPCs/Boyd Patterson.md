@@ -7,7 +7,7 @@ tags:
   - Miskantonic
 ---
 
-> ![Boyd Patterson|150](zz_Assets/BoydP.jpeg)
+> ![Boyd Patterson](https://derklucas.github.io/Harvest/docs/zz_Assets/BoydP.jpeg)
 > **Age:** 24
 > **Function:** Student
 > **Status:** Deceased
