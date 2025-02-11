@@ -7,7 +7,7 @@ tags:
   - NPC
 ---
 > [!infobox]
-> ![[../../public/zz_Assets/JohnJ2.jpeg| 150]]
+> ![[JohnJ2.jpeg| 150]]
 > **Age:** 25
 > **Function:** Student 
 > **Status:** Missing

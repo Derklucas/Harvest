@@ -5,4 +5,4 @@ tags:
   - Handout
   - Article
 ---
-![[../../public/zz_Assets/Harvest 4.png]]
+![[Harvest 4.png]]
