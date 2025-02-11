@@ -91,5 +91,5 @@ const config: QuartzConfig = {
     ],
   },
 }
-
+export const staticFileDirs = ["assets", "public"];
 export default config
