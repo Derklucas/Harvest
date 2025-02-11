@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "https://derklucas.github.io/Harvest",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     generateSocialImages: false,
@@ -53,7 +53,7 @@ const config: QuartzConfig = {
         },
       },
     },
-    staticFileDirs: ["zz_assets"],  
+    staticFileDirs: ["public", "zz_assets"],  
 },
   plugins: {
     transformers: [
