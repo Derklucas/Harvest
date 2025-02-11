@@ -53,6 +53,7 @@ const config: QuartzConfig = {
         },
       },
     },
+    staticFileDirs: ["zz_assets", "public"],  // <-- Add this line here
   },
   plugins: {
     transformers: [
@@ -91,5 +92,4 @@ const config: QuartzConfig = {
     ],
   },
 }
-export const staticFileDirs = ["assets", "public"];
 export default config
