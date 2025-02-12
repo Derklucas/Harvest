@@ -53,7 +53,7 @@ const config: QuartzConfig = {
         },
       },
     },
-    staticFileDirs: ["static/zz_Assets"],  
+    staticFileDirs: ["docs/zz_Assets"],  
 },
   plugins: {
     transformers: [
