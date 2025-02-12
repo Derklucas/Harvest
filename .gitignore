@@ -1,7 +1,9 @@
 .DS_Store
 .gitignore
 node_modules
-public
+public/*
+!public/zz_Assets/
+!public/zz_Assets/*
 prof
 tsconfig.tsbuildinfo
 .obsidian
@@ -9,7 +11,3 @@ tsconfig.tsbuildinfo
 private/
 .replit
 replit.nix
-
-# Allow public/zz_Assets to be tracked
-!public/zz_Assets/
-!public/zz_Assets/*
