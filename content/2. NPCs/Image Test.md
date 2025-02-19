@@ -3,7 +3,4 @@ title: Image Test
 draft: false
 tags:
 ---
-![[public/zz_Assets/BoydP.jpeg]]
-![[public/zz_Assets/Cobbs.png]]
-![[public/zz_Assets/DaisVanGinkelID.png]]
-![[public/zz_Assets/Harvest 4.png]]
+![](/zz_Assets/BoydP.jpeg) ![](zz_Assets/DaphneD.jpeg) ![](/public/zz_Assets/JohnJ2.jpeg) ![](/static/zz_Assets/Cobbs.png)
