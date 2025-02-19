@@ -7,7 +7,7 @@ tags:
   - NPC
 ---
 > [!infobox]
-> ![[RobertB.jpg| 150]]
+> ![](zz_Assets/RobertB.jpg)
 > **Age:** 24
 > **Function:** Student
 > **Status:** Alive

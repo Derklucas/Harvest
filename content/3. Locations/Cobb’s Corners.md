@@ -6,7 +6,7 @@ tags:
   - CobbsCorners
 ---
 > [!infobox]
-> ![Cobbs](Cobbs.png)
+> ![](zz_Assets/Cobbs.png)
 
 Cobb’s Corners is situated roughly 20 miles (32 km) west of Brattleboro, within a “U” shaped mountain range. The town is blessed with a booming trade industry due to its location on the Deerfield River and the fecundity of its farms. Chartered in 1787 by a group of farmers out of New Hampshire, the town was named after Franklin Cobb, the leader of the settlers, and the surrounding land is often referred to as Cobb’s Corners as well. The farmland in the valley has garnered a growing reputation as the “Breadbasket of Vermont” due to the variety and abundant yield of its crops in a region usually known for its rocky, if not infertile, soil. The Gismend River, a small tributary to the much larger Deerfield River (great for bass and trout fishing), also bisects the valley. 
 
