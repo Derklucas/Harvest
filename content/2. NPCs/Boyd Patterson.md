@@ -7,7 +7,7 @@ tags:
   - Miskantonic
 ---
 
->![BoydP |150](/zz_Assets/BoydP.jpeg)
+>![[public/zz_Assets/BoydP.jpeg|150]]
 > **Age:** 24
 > **Function:** Student
 > **Status:** Deceased
